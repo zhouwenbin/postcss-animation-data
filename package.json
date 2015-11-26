@@ -1,6 +1,6 @@
 {
   "name": "postcss-animation-data",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "PostCSS plugin that adds @keywords from animate.css.",
   "keywords": [
     "postcss",
@@ -28,12 +28,6 @@
   "homepage": "https://github.com/zhouwenbin/postcss-animation-data",
   "dependencies": {
     "postcss": "^5.0"
-  },
-  "devDependencies": {
-    "gulp-eslint": "^0.12.0",
-    "gulp-mocha": "^2.0.1",
-    "chai": "^2.3.0",
-    "gulp": "^3.8.11"
   },
   "scripts": {
     "test": "gulp check"

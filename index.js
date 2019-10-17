@@ -73,5 +73,6 @@ module.exports = {
   "slideOutDown": "@keyframes slideOutDown {from {transform: translate3d(0, 0, 0);}to {visibility: hidden;transform: translate3d(0, 100%, 0);}}",
   "slideOutLeft": "@keyframes slideOutLeft {from {transform: translate3d(0, 0, 0);}to {visibility: hidden;transform: translate3d(-100%, 0, 0);}}",
   "slideOutRight": "@keyframes slideOutRight {from {transform: translate3d(0, 0, 0);}to {visibility: hidden;transform: translate3d(100%, 0, 0);}}",
-  "slideOutUp": "@keyframes slideOutUp {from {transform: translate3d(0, 0, 0);}to {visibility: hidden;transform: translate3d(0, -100%, 0);}}"
+  "slideOutUp": "@keyframes slideOutUp {from {transform: translate3d(0, 0, 0);}to {visibility: hidden;transform: translate3d(0, -100%, 0);}}",
+  "heartBeat ": "@keyframes heartBeat {0% {transform: scale(1);}14% {transform: scale(1.3);}28% {transform: scale(1);}42% {transform: scale(1.3);}70% {transform: scale(1);}}"
 }
